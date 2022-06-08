@@ -1,24 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Books>
-    <book>
-        <id>0</id>
-        <szerzo>zftr</szerzo>
-        <cim>vcghbjn</cim>
-        <oldal>7145</oldal>
-        <borito>kemény</borito>
-    </book>
-    <book>
-        <id>1</id>
-        <szerzo>kmnjh</szerzo>
-        <cim>l,kmjhbg</cim>
-        <oldal>null</oldal>
-        <borito>null</borito>
-    </book>
-    <book>
-        <id>2</id>
-        <szerzo>0</szerzo>
-        <cim>njhbv</cim>
-        <oldal>null</oldal>
-        <borito>null</borito>
-    </book>
-</Books>
+<Books/>
