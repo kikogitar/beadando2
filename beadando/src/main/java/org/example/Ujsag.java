@@ -78,7 +78,7 @@ public class Ujsag extends Kiadvany {
             this.megjelent.honap=honap;
             System.out.print("Add meg a megjelenés napját:");
             int nap = scanner.nextInt();
-            if (nap > 31 || honap <= 0) {
+            if (nap > 31 || nap <= 0) {
                 throw new DateError(" ");
             }
             this.megjelent.nap=nap;
